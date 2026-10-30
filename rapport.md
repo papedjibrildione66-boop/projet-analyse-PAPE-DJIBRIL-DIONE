@@ -1,6 +1,6 @@
 # Rapport — Analyse des journaux du pare-feu
 
-**Nom / Prénom : PAPE-DJIBRIL-DIONE** (à remplacer)
+**Nom / Prénom : PAPE-DJIBRIL-DIONE** 
 
 ## Résumé
 Le pare-feu a enregistré une semaine de trafic (du 5 au 11 octobre 2026). Après nettoyage (doublons supprimés, protocoles mis en majuscules, valeurs manquantes remplacées par la médiane), il reste **5 440 connexions**. Le trafic est dominé par HTTPS (port 443, 1 874 connexions), puis HTTP (80), DNS (53) et MQTT (1883) pour les objets connectés. **13,57 %** des connexions sont bloquées (DENY). Deux comportements anormaux se détachent nettement du trafic normal : un scan de ports et une exfiltration de données par une caméra IoT.
