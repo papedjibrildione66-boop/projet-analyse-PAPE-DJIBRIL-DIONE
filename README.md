@@ -1,6 +1,6 @@
 # Projet 1 — Analyse des journaux d'un pare-feu
 
-**Nom / Prénom : PAPE-DJIBRIL-DIONE** (à remplacer)
+**Nom / Prénom : PAPE-DJIBRIL-DIONE** 
 
 ## Lancer le projet
 ```bash
